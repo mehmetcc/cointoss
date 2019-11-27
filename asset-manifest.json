@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/cointoss/static/css/main.34de6062.chunk.css",
-    "main.js": "/cointoss/static/js/main.9553243b.chunk.js",
-    "main.js.map": "/cointoss/static/js/main.9553243b.chunk.js.map",
+    "main.js": "/cointoss/static/js/main.0dd1f5aa.chunk.js",
+    "main.js.map": "/cointoss/static/js/main.0dd1f5aa.chunk.js.map",
     "runtime-main.js": "/cointoss/static/js/runtime-main.79165d16.js",
     "runtime-main.js.map": "/cointoss/static/js/runtime-main.79165d16.js.map",
     "static/css/2.00574c3e.chunk.css": "/cointoss/static/css/2.00574c3e.chunk.css",
     "static/js/2.75e49cc5.chunk.js": "/cointoss/static/js/2.75e49cc5.chunk.js",
     "static/js/2.75e49cc5.chunk.js.map": "/cointoss/static/js/2.75e49cc5.chunk.js.map",
     "index.html": "/cointoss/index.html",
-    "precache-manifest.0656b4a2030ce2009672ea662350a7aa.js": "/cointoss/precache-manifest.0656b4a2030ce2009672ea662350a7aa.js",
+    "precache-manifest.dbbb55c4edd0c259ec41fd72fb2156d7.js": "/cointoss/precache-manifest.dbbb55c4edd0c259ec41fd72fb2156d7.js",
     "service-worker.js": "/cointoss/service-worker.js",
     "static/css/2.00574c3e.chunk.css.map": "/cointoss/static/css/2.00574c3e.chunk.css.map",
     "static/css/main.34de6062.chunk.css.map": "/cointoss/static/css/main.34de6062.chunk.css.map",
-    "static/media/para.jpg": "/cointoss/static/media/para.29a26591.jpg",
+    "static/media/para.jpg": "/cointoss/static/media/para.0e22b3fa.jpg",
     "static/media/index.css": "/cointoss/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
@@ -21,6 +21,6 @@
     "static/css/2.00574c3e.chunk.css",
     "static/js/2.75e49cc5.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.9553243b.chunk.js"
+    "static/js/main.0dd1f5aa.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d8665c5e4e6c3fe116e4315b758a18d",
+    "revision": "668a65e7161bdad4b1ad06001b1ea6e7",
     "url": "/cointoss/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cointoss/static/css/2.00574c3e.chunk.css"
   },
   {
-    "revision": "39e649790e0d3f50ae34",
+    "revision": "18b266ff8dfd59e3c8ec",
     "url": "/cointoss/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cointoss/static/js/2.75e49cc5.chunk.js"
   },
   {
-    "revision": "39e649790e0d3f50ae34",
-    "url": "/cointoss/static/js/main.9553243b.chunk.js"
+    "revision": "18b266ff8dfd59e3c8ec",
+    "url": "/cointoss/static/js/main.0dd1f5aa.chunk.js"
   },
   {
     "revision": "37a264084fd4da7dadf2",
     "url": "/cointoss/static/js/runtime-main.79165d16.js"
   },
   {
-    "revision": "29a26591df8c7d40dd280d83a038565d",
-    "url": "/cointoss/static/media/para.29a26591.jpg"
+    "revision": "0e22b3fa51de9fa623eb19c362820448",
+    "url": "/cointoss/static/media/para.0e22b3fa.jpg"
   },
   {
     "revision": "5cb7edfceb233100075dc9a1e12e8da3",
