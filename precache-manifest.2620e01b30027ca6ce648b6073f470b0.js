@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e30393c38373a08b9a7fcd7d931df276",
+    "revision": "732ba1e6a0df810aa83f3c00ed63797f",
     "url": "/cointoss/index.html"
   },
   {
