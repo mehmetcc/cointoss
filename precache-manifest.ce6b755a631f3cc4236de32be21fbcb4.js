@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1de452cbd552aaa522feb7258827a9c",
+    "revision": "e30393c38373a08b9a7fcd7d931df276",
     "url": "/cointoss/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cointoss/static/css/2.00574c3e.chunk.css"
   },
   {
-    "revision": "01af41bbd9ac527ff146",
+    "revision": "39e649790e0d3f50ae34",
     "url": "/cointoss/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cointoss/static/js/2.75e49cc5.chunk.js"
   },
   {
-    "revision": "01af41bbd9ac527ff146",
-    "url": "/cointoss/static/js/main.6977410b.chunk.js"
+    "revision": "39e649790e0d3f50ae34",
+    "url": "/cointoss/static/js/main.9553243b.chunk.js"
   },
   {
     "revision": "37a264084fd4da7dadf2",
